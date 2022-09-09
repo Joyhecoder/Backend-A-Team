@@ -14,7 +14,7 @@
 * Bootstrap
 * Javascript
 * ExpressJS
-* PostgresSQL
+* PostgreSQL
 * Sequelize
 * Passport
 * JQuery
@@ -57,7 +57,7 @@ The minimum viable product for this project was a web page that displays transac
 
 [Manjuan He:](https://github.com/Joyhecoder)
 
-- Primary developer to connect frontend pages to backend database such as storing login information, transaction data into database by using ProgresSQL.
+- Primary developer to connect frontend pages to backend database such as storing login information, transaction data into database by using ProgreSQL.
 - Primary developer of the adding, editing and deleting transaction feature using Javascript, node, ExpressJS, Sequelize. 
 - Set up login page, dashboard page using HTML, CSS and Bootstrap for responsiveness.
 
